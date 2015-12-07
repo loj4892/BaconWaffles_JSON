@@ -1,0 +1,92 @@
+body {
+	max-width: 1024px;
+	font-family: "bangers";
+    color:#FFCC00;
+    background-color: #222;
+    
+}
+
+button {
+	width: 90px;
+	height: 50px;
+    margin-left: 3px;
+    background-color: white;
+    color: #FFCC00;
+    font-family:"Bangers";
+    font-size: 15pt;
+    border: solid 2px white;
+}
+
+#buttons {
+    margin-left: 300px;
+    margin-bottom: 20px;
+    
+}
+
+h1 {
+    font-family: "Bangers";
+    color: #FFCC00 ;
+    margin-bottom: none;
+    margin-left: -100px;
+}
+
+#content h2 {
+    font-family: "Bangers";
+    margin-left:auto;
+}
+
+h2 {
+    margin-top: none;
+    margin-left: 300px;
+    color:#FFCC00
+    font-family: "Bangers";    
+
+}
+
+#content {
+	width: 1000px;
+    height: 525px;
+    font-family: "Open Sans Condensed";
+    margin-left: 250px;
+    background-color:#FFCC00;
+    border: solid 3px white
+   
+}
+
+
+header {
+    margin-left: 350px;
+    
+}
+
+.titleArea {
+	position: relative;
+/*	top: 0px;*/
+    margin-bottom: 30px;
+	padding: 18px;
+	background-color: #FFCC00;
+	color: #222;
+    text-align: center;      
+}
+
+.titleArea > h2 {
+	font-size: 2.4em;
+    font-family: "Bangers";
+
+}
+
+.slide {
+	width: 1000px;
+    height: 500px;
+	overflow: hidden;
+    margin-left: px;
+
+}
+
+#prev {
+    margin-left: 75px;
+}
+
+.slide img {
+}
+}
